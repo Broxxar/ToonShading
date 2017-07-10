@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: peasant_arm_mask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: mesh
+    m_Weight: 0
+  - m_Path: root
+    m_Weight: 0
+  - m_Path: root/hips
+    m_Weight: 0
+  - m_Path: root/hips/left_thigh
+    m_Weight: 0
+  - m_Path: root/hips/left_thigh/left_calf
+    m_Weight: 0
+  - m_Path: root/hips/left_thigh/left_calf/left_foot
+    m_Weight: 0
+  - m_Path: root/hips/right_thigh
+    m_Weight: 0
+  - m_Path: root/hips/right_thigh/right_calf
+    m_Weight: 0
+  - m_Path: root/hips/right_thigh/right_calf/right_foot
+    m_Weight: 0
+  - m_Path: root/spine
+    m_Weight: 0
+  - m_Path: root/spine/chest
+    m_Weight: 0
+  - m_Path: root/spine/chest/head
+    m_Weight: 0
+  - m_Path: root/spine/chest/head/jaw
+    m_Weight: 0
+  - m_Path: root/spine/chest/head/jaw/lower_lip_helper
+    m_Weight: 0
+  - m_Path: root/spine/chest/head/left_eye
+    m_Weight: 0
+  - m_Path: root/spine/chest/head/right_eye
+    m_Weight: 0
+  - m_Path: root/spine/chest/head/upper_lip_helper
+    m_Weight: 0
+  - m_Path: root/spine/chest/left_shoulder
+    m_Weight: 1
+  - m_Path: root/spine/chest/left_shoulder/left_arm
+    m_Weight: 1
+  - m_Path: root/spine/chest/left_shoulder/left_arm/left_hand
+    m_Weight: 1
+  - m_Path: root/spine/chest/left_shoulder/left_arm/left_hand/left_fingers
+    m_Weight: 1
+  - m_Path: root/spine/chest/left_shoulder/left_arm/left_hand/left_thumb_knuckle
+    m_Weight: 1
+  - m_Path: root/spine/chest/left_shoulder/left_arm/left_hand/left_thumb_knuckle/left_thumb_tip
+    m_Weight: 1
+  - m_Path: root/spine/chest/right_shoulder
+    m_Weight: 1
+  - m_Path: root/spine/chest/right_shoulder/right_arm
+    m_Weight: 1
+  - m_Path: root/spine/chest/right_shoulder/right_arm/right_hand
+    m_Weight: 1
+  - m_Path: root/spine/chest/right_shoulder/right_arm/right_hand/item_dummy
+    m_Weight: 1
+  - m_Path: root/spine/chest/right_shoulder/right_arm/right_hand/right_fingers
+    m_Weight: 1
+  - m_Path: root/spine/chest/right_shoulder/right_arm/right_hand/right_thumb_knuckle
+    m_Weight: 1
+  - m_Path: root/spine/chest/right_shoulder/right_arm/right_hand/right_thumb_knuckle/right_thumb_tip
+    m_Weight: 1

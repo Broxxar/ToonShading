@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 66be1b9c945960f478206d530bd0f4fb
+timeCreated: 1496544704
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: chest
+    100002: head
+    100004: hips
+    100006: jaw
+    100008: left_arm
+    100010: left_calf
+    100012: left_eye
+    100014: left_fingers
+    100016: left_foot
+    100018: left_hand
+    100020: left_shoulder
+    100022: left_thigh
+    100024: left_thumb_knuckle
+    100026: left_thumb_tip
+    100028: lower_lip_helper
+    100030: //RootNode
+    100032: right_arm
+    100034: right_calf
+    100036: right_eye
+    100038: right_fingers
+    100040: right_foot
+    100042: right_hand
+    100044: right_shoulder
+    100046: right_thigh
+    100048: right_thumb_knuckle
+    100050: right_thumb_tip
+    100052: root
+    100054: spine
+    100056: upper_lip_helper
+    100058: mesh
+    100060: IK Chain001
+    100062: IK Chain002
+    100064: left_foot_helper
+    100066: left_knee_helper
+    100068: peasant
+    100070: right_foot_helper
+    100072: right_knee_helper
+    100074: item_dummy
+    400000: chest
+    400002: head
+    400004: hips
+    400006: jaw
+    400008: left_arm
+    400010: left_calf
+    400012: left_eye
+    400014: left_fingers
+    400016: left_foot
+    400018: left_hand
+    400020: left_shoulder
+    400022: left_thigh
+    400024: left_thumb_knuckle
+    400026: left_thumb_tip
+    400028: lower_lip_helper
+    400030: //RootNode
+    400032: right_arm
+    400034: right_calf
+    400036: right_eye
+    400038: right_fingers
+    400040: right_foot
+    400042: right_hand
+    400044: right_shoulder
+    400046: right_thigh
+    400048: right_thumb_knuckle
+    400050: right_thumb_tip
+    400052: root
+    400054: spine
+    400056: upper_lip_helper
+    400058: mesh
+    400060: IK Chain001
+    400062: IK Chain002
+    400064: left_foot_helper
+    400066: left_knee_helper
+    400068: peasant
+    400070: right_foot_helper
+    400072: right_knee_helper
+    400074: item_dummy
+    2300000: left_eye
+    2300002: right_eye
+    2300004: mesh
+    3300000: left_eye
+    3300002: right_eye
+    3300004: mesh
+    4300000: right_eye
+    4300002: left_eye
+    4300004: mesh
+    7400000: peasant_idle
+    9500000: //RootNode
+    13700000: mesh
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: root
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: peasant_idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 110
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: mesh
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/hips
+        weight: 1
+      - path: root/hips/left_thigh
+        weight: 1
+      - path: root/hips/left_thigh/left_calf
+        weight: 1
+      - path: root/hips/left_thigh/left_calf/left_foot
+        weight: 1
+      - path: root/hips/right_thigh
+        weight: 1
+      - path: root/hips/right_thigh/right_calf
+        weight: 1
+      - path: root/hips/right_thigh/right_calf/right_foot
+        weight: 1
+      - path: root/spine
+        weight: 1
+      - path: root/spine/chest
+        weight: 1
+      - path: root/spine/chest/head
+        weight: 1
+      - path: root/spine/chest/head/jaw
+        weight: 1
+      - path: root/spine/chest/head/jaw/lower_lip_helper
+        weight: 1
+      - path: root/spine/chest/head/left_eye
+        weight: 1
+      - path: root/spine/chest/head/right_eye
+        weight: 1
+      - path: root/spine/chest/head/upper_lip_helper
+        weight: 1
+      - path: root/spine/chest/left_shoulder
+        weight: 1
+      - path: root/spine/chest/left_shoulder/left_arm
+        weight: 1
+      - path: root/spine/chest/left_shoulder/left_arm/left_hand
+        weight: 1
+      - path: root/spine/chest/left_shoulder/left_arm/left_hand/left_fingers
+        weight: 1
+      - path: root/spine/chest/left_shoulder/left_arm/left_hand/left_thumb_knuckle
+        weight: 1
+      - path: root/spine/chest/left_shoulder/left_arm/left_hand/left_thumb_knuckle/left_thumb_tip
+        weight: 1
+      - path: root/spine/chest/right_shoulder
+        weight: 1
+      - path: root/spine/chest/right_shoulder/right_arm
+        weight: 1
+      - path: root/spine/chest/right_shoulder/right_arm/right_hand
+        weight: 1
+      - path: root/spine/chest/right_shoulder/right_arm/right_hand/right_fingers
+        weight: 1
+      - path: root/spine/chest/right_shoulder/right_arm/right_hand/right_thumb_knuckle
+        weight: 1
+      - path: root/spine/chest/right_shoulder/right_arm/right_hand/right_thumb_knuckle/right_thumb_tip
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

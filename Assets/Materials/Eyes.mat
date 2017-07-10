@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Eyes
+  m_Shader: {fileID: 4800000, guid: 1978e9e9186131f4f8d3224d78c7ff3b, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ToonLut:
+        m_Texture: {fileID: 2800000, guid: 56285dc27e8d6f54e9823db34f8c393b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _RimPower: 0.5
+    m_Colors:
+    - _Color: {r: 0, g: 0, b: 0, a: 1}
+    - _RimColor: {r: 0.28676468, g: 0.28676468, b: 0.28676468, a: 1}

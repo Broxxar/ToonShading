@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 6f3b1db8f1cd79a41971c3497154ea01
+timeCreated: 1496991322
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: chest
+    100002: head
+    100004: hips
+    100006: item_dummy
+    100008: jaw
+    100010: left_arm
+    100012: left_calf
+    100014: left_fingers
+    100016: left_foot
+    100018: left_hand
+    100020: left_shoulder
+    100022: left_thigh
+    100024: left_thumb_knuckle
+    100026: left_thumb_tip
+    100028: lower_lip_helper
+    100030: //RootNode
+    100032: right_arm
+    100034: right_calf
+    100036: right_fingers
+    100038: right_foot
+    100040: right_hand
+    100042: right_shoulder
+    100044: right_thigh
+    100046: right_thumb_knuckle
+    100048: right_thumb_tip
+    100050: root
+    100052: spine
+    100054: upper_lip_helper
+    100056: left_eye
+    100058: right_eye
+    100060: Sphere001
+    400000: chest
+    400002: head
+    400004: hips
+    400006: item_dummy
+    400008: jaw
+    400010: left_arm
+    400012: left_calf
+    400014: left_fingers
+    400016: left_foot
+    400018: left_hand
+    400020: left_shoulder
+    400022: left_thigh
+    400024: left_thumb_knuckle
+    400026: left_thumb_tip
+    400028: lower_lip_helper
+    400030: //RootNode
+    400032: right_arm
+    400034: right_calf
+    400036: right_fingers
+    400038: right_foot
+    400040: right_hand
+    400042: right_shoulder
+    400044: right_thigh
+    400046: right_thumb_knuckle
+    400048: right_thumb_tip
+    400050: root
+    400052: spine
+    400054: upper_lip_helper
+    400056: left_eye
+    400058: right_eye
+    400060: Sphere001
+    2300000: left_eye
+    2300002: right_eye
+    2300004: Sphere001
+    3300000: left_eye
+    3300002: right_eye
+    3300004: Sphere001
+    4300000: right_eye
+    4300002: left_eye
+    4300004: Sphere001
+    7400000: peasant_holding_item
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: peasant_holding_item
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {fileID: 31900000, guid: 419caff7abb20cd419470c511e692d85, type: 2}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 0
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: d6af5684a617cde44bcb8ef8e8240373
+timeCreated: 1497075446
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: chest
+    100002: head
+    100004: hips
+    100006: IK Chain001
+    100008: IK Chain002
+    100010: item_dummy
+    100012: jaw
+    100014: left_arm
+    100016: left_calf
+    100018: left_eye
+    100020: left_fingers
+    100022: left_foot
+    100024: left_foot_helper
+    100026: left_hand
+    100028: left_knee_helper
+    100030: left_shoulder
+    100032: left_thigh
+    100034: left_thumb_knuckle
+    100036: left_thumb_tip
+    100038: lower_lip_helper
+    100040: mesh
+    100042: peasant
+    100044: //RootNode
+    100046: right_arm
+    100048: right_calf
+    100050: right_eye
+    100052: right_fingers
+    100054: right_foot
+    100056: right_foot_helper
+    100058: right_hand
+    100060: right_knee_helper
+    100062: right_shoulder
+    100064: right_thigh
+    100066: right_thumb_knuckle
+    100068: right_thumb_tip
+    100070: root
+    100072: Sphere001
+    100074: spine
+    100076: upper_lip_helper
+    400000: chest
+    400002: head
+    400004: hips
+    400006: IK Chain001
+    400008: IK Chain002
+    400010: item_dummy
+    400012: jaw
+    400014: left_arm
+    400016: left_calf
+    400018: left_eye
+    400020: left_fingers
+    400022: left_foot
+    400024: left_foot_helper
+    400026: left_hand
+    400028: left_knee_helper
+    400030: left_shoulder
+    400032: left_thigh
+    400034: left_thumb_knuckle
+    400036: left_thumb_tip
+    400038: lower_lip_helper
+    400040: mesh
+    400042: peasant
+    400044: //RootNode
+    400046: right_arm
+    400048: right_calf
+    400050: right_eye
+    400052: right_fingers
+    400054: right_foot
+    400056: right_foot_helper
+    400058: right_hand
+    400060: right_knee_helper
+    400062: right_shoulder
+    400064: right_thigh
+    400066: right_thumb_knuckle
+    400068: right_thumb_tip
+    400070: root
+    400072: Sphere001
+    400074: spine
+    400076: upper_lip_helper
+    2300000: left_eye
+    2300002: right_eye
+    2300004: Sphere001
+    3300000: left_eye
+    3300002: right_eye
+    3300004: Sphere001
+    4300000: mesh
+    4300002: right_eye
+    4300004: left_eye
+    4300006: Sphere001
+    7400000: peasant_grabbing_item
+    9500000: //RootNode
+    13700000: mesh
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
